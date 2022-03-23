@@ -1,0 +1,87 @@
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+#navbarSupportedContent {
+    margin-right: 20rem;
+    font-weight: bold;
+    padding: 10px;
+}
+.carousel .carousel-item {
+    height: 440px;
+}
+.carousel .carousel-item .carousel-caption{
+    top: 120px;
+}
+.vr{
+    padding-right: 0 !important; padding-left: 0 !important
+   }
+
+   .floating-parent {
+       position:fixed;
+       bottom: 40%;
+       left: 18px;
+       text-align: center;
+       color: red;
+   }
+
+.floating-parent .left-button {
+    width: 60px;
+    height: 60px;
+    background: url(bookmarkicon.svg);
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-color: red;
+    background-size: 32px;
+    background-position: center;
+    float: left;
+    margin: 0 auto;
+    cursor: pointer;
+    box-shadow: 0 -2px 3px -1px gray;
+}
+
+.floating-bottom-parent {
+    position:fixed;
+    bottom: 30%;
+    left: 18px;
+    text-align: center;
+    color: red;
+}
+
+.floating-bottom-parent .left-bottom-button {
+    width: 60px;
+    height: 60px;
+    background: url(ShareIcon.svg);
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-color: red;
+    background-size: 32px;
+    background-position: center;
+    float: left;
+    margin: 0 auto;
+    cursor: pointer;
+    box-shadow: 0 -2px 3px -1px gray;
+}
+
+
+.body {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+
+.footer {
+  
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+
+  .ac-nav {
+    background: #C70101;
+  }
