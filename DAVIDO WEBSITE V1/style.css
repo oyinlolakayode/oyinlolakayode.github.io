@@ -1,0 +1,17 @@
+.footer {
+    background-color: black;
+}
+
+img.hero-image {
+    width: 100%;
+    display:block;
+    height: auto;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    border-radius: 50%;
+}
