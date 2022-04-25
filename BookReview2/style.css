@@ -1,0 +1,72 @@
+.navbar {
+    /*display: block;*/
+    text-align: center;
+}
+
+body {
+    font-family: 'fraunces', serif;
+}
+
+.parallax {
+    min-height: 100vh;
+    min-width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.parallax-img {
+    /* background-image: url(/Users/kayodeoyinlola/Documents/GitHub/oyinlolakayode.github.io/BOOK REVIEW WEBSITE/hero.jpg); */
+    text-align: left;
+}
+
+.hero-headline {
+    margin: 15rem;
+    margin-left: 60rem;
+    color: black;
+    display: block;
+}
+
+.hero-inner {
+    display: flex;
+    justify-content: left;
+    align-items: right;
+}
+
+.container {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.navbar {
+    background-color: black;
+    font-size: 700;
+}
+
+.container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+h5:hover {
+    color: #FF5C00;
+}
+
+h6:hover {
+    color: #FF5C00;
+}
+
+a.button:hover {
+    color: #FF5C00;
+}
